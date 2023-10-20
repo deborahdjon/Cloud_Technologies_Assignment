@@ -41,15 +41,6 @@ The development and functionality of this web application are powered by various
 - **Heroku**: Deployment of the web application for public access
 
 ## How to Use
-
-To access the web application, simply visit [Application Link] and start exploring the exciting world of YouTube video popularity analysis!
-
----
-
-Feel free to customize this README to include additional details, such as installation instructions, usage guidelines, and any additional features of your web application. This README will provide a clear overview of your project to visitors on your GitHub repository.
-
-[)
-
 To run the website application, follow the next steps:
 
 1. Install neccesary dependencies: pip install -r requiremetns
